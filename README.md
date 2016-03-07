@@ -1,5 +1,4 @@
 # hello-world
-repositorio qualquer
 
 vfdv
 fds
